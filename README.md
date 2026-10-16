@@ -1,6 +1,28 @@
-# Spectrite para Minecraft 1.21.1
+# Spectrite 1.14.0 — Convergencia
 
-NeoForge 21.1.172 y Java 21. Dependencias: Soul Fire’d 6.1.0, Prometheus 1.2.5 y Cobweb 1.4.0.
+**Minecraft 1.21.1 · NeoForge 21.1.172 · Java 21.** Instala una sola versión de Spectrite, la misma en cliente y servidor. La versión 1.14 fusiona el archivo 1.9.0-pre1 enviado por el usuario con las ampliaciones posteriores e integra su propio fuego.
+
+- [Descargar JAR directamente](https://raw.githubusercontent.com/bastian-lopez-benitez/-/refs/heads/spectrite-download-1.10.0/spectrite-1.21.1-1.14.0-almas-convergencia.jar)
+- [Descargar ZIP de instalación](https://raw.githubusercontent.com/bastian-lopez-benitez/-/refs/heads/spectrite-download-1.10.0/spectrite-1.21.1-1.14.0-almas-convergencia.zip) — contiene únicamente el JAR; extráelo en `mods`.
+- [Fuentes y recursos de bloques para adaptar a 1.20.1](https://raw.githubusercontent.com/bastian-lopez-benitez/-/refs/heads/spectrite-download-1.10.0/spectrite-1.14.0-bloques-fuentes-para-port-1.20.1.zip) — recursos convertidos y fuentes 1.21.1 para adaptar, no es un mod ejecutable de Forge 1.20.1.
+
+Incluye 25 mazmorras terrestres con conexiones, temas, población y campeones por perfil, cinco monumentos oceánicos con guardianes y campanas de aire, 39 especies hostiles en su forma de Spectrita, seis bloques de fragmentos, equipo escalado y recompensas por peligro. Los campeones y mobs tienen ataques anunciados de nueve familias.
+
+El Breeze de Spectrita tiene cuerpo y viento prismáticos. Suelta 1–2 Barras Spectral; cada barra produce cuatro cargas cromáticas con el doble de empuje vanilla. Los impactos aplican Provocación y Debilidad cromática. Las perlas de Spectrita se apilan a 32.
+
+Se conservan el Señor de la Muerte, su armadura 3D y arsenal, la Monstruosidad y su molde exclusivo, las dos formas Wither, la Forja del Réquiem, ojo activo, saltos, regeneración con hambre y barras discretas. El arco del Trono del Vacío dispara tres calaveras guiadas; la munición decide Wither II/III/IV y daño persistente. Almas por bajas; furia por impactos. Los detalles y controles están en [la guía completa](README_TIER.md).
+
+[Catálogo de 30 expediciones y jefes](EXPEDICIONES.md) · [Validación](VALIDACION.md) · [Preparación del port 1.20.1](PORT_1_20_1.md) · [SHA256](SHA256SUMS.txt)
+
+Validación: **196 pruebas de servidor, 0 fallos; 50 comprobaciones del cliente nativo, salida normal**. El cliente gráfico usa vistas de modelos e interfaz sin generar un mundo; la colocación de piezas y el combate se verifican por separado en servidor.
+
+![Bloques, materiales y estados del Breeze](capturas-1.14/bloques-y-breeze.png)
+
+![Armadura Overlord: cobertura y poses](capturas-1.14/armadura-overlord.png)
+
+# Historial de versiones
+
+Las versiones históricas 1.9.1–1.12.0 usaban Soul Fire’d, Prometheus y Cobweb. 1.14 integra el fuego propio y no exige esas dependencias.
 
 ## Descargas
 

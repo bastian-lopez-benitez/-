@@ -1,8 +1,11 @@
+dc4fe66a213c20fe2f54ca59293fee19395b3ba5bcf7072b258aee34bfb032bb  spectrite-1.14.0-bloques-fuentes-para-port-1.20.1.zip
 d6e25e0689a6c84dca3ac2184eed7f328e3e82ccfe1c89d85fa7999a1bc356d9  spectrite-1.21.1-1.10.0-almas-monstrosity.jar
 478cbe26c3f77b5c003c9cc22876fb0dd0c4d1617690ff3ce37825d3c3da4d37  spectrite-1.21.1-1.10.0-almas-monstrosity.zip
 2c93b58f0717da4aefeb8de1eb366a2ca160b51233a715fb953ff026183d9238  spectrite-1.21.1-1.11.0-almas-reaper.jar
 d89acedba4f540063f33ebdc96804992756979d89f6f4a9e48cd11437a252468  spectrite-1.21.1-1.11.0-almas-reaper.zip
 a99cb31367a121a036b71a49a84e6c0515a9f4d06c15e553dba53d39f8adad2e  spectrite-1.21.1-1.12.0-almas-wither.jar
 266cbeba0cb7c67b0146cfeee672136783fe2ea2d767a8593965c0dd7d73af50  spectrite-1.21.1-1.12.0-almas-wither.zip
+b4f52aa19ca3d2ff170758f2e4c99fffc331aad1d1a5a4e37fdc72adad7cb1ba  spectrite-1.21.1-1.14.0-almas-convergencia.jar
+06acaeb632d56b5c5e0fb187e347879ed9c0091ca919d9566814e02a38963883  spectrite-1.21.1-1.14.0-almas-convergencia.zip
 052a6172ef3c594023ae8e7771b8b069fe523e59398d0204ed2ef3f71e2be8da  spectrite-1.21.1-1.9.1-almas-overlord.jar
 0f3f64024bfea3c52c001ffccc9809b0339df1bc38a52fa91e9ec24b55ce2c30  spectrite-1.21.1-1.9.1-almas-overlord.zip
