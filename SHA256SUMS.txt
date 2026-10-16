@@ -1,4 +1,6 @@
-052a6172ef3c594023ae8e7771b8b069fe523e59398d0204ed2ef3f71e2be8da  spectrite-1.21.1-1.9.1-almas-overlord.jar
-0f3f64024bfea3c52c001ffccc9809b0339df1bc38a52fa91e9ec24b55ce2c30  spectrite-1.21.1-1.9.1-almas-overlord.zip
 d6e25e0689a6c84dca3ac2184eed7f328e3e82ccfe1c89d85fa7999a1bc356d9  spectrite-1.21.1-1.10.0-almas-monstrosity.jar
 478cbe26c3f77b5c003c9cc22876fb0dd0c4d1617690ff3ce37825d3c3da4d37  spectrite-1.21.1-1.10.0-almas-monstrosity.zip
+2c93b58f0717da4aefeb8de1eb366a2ca160b51233a715fb953ff026183d9238  spectrite-1.21.1-1.11.0-almas-reaper.jar
+d89acedba4f540063f33ebdc96804992756979d89f6f4a9e48cd11437a252468  spectrite-1.21.1-1.11.0-almas-reaper.zip
+052a6172ef3c594023ae8e7771b8b069fe523e59398d0204ed2ef3f71e2be8da  spectrite-1.21.1-1.9.1-almas-overlord.jar
+0f3f64024bfea3c52c001ffccc9809b0339df1bc38a52fa91e9ec24b55ce2c30  spectrite-1.21.1-1.9.1-almas-overlord.zip
